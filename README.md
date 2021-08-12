@@ -10,6 +10,7 @@ In order to run the program run the command **python3 main.py** or **python main
 
 Here is the working of the bot:<br>
 The bot starts with a spash screen, displaying the name of our comapany and summarizing the use of the bot in just a picture. (Credit image was made thhrough canva.com) <br>
+![Screenshot](SpashBG .png)
 [Spash screen](https://i.ibb.co/cbhWWDT/Screenshot-2021-08-12-at-9-07-45-AM.png)
 
 
